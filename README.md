@@ -14,7 +14,7 @@ This repository contains a Java console application for a bank system. The appli
 
 ## Description
 
-The application begins with an instructional guide for users, providing clear directions on its functionalities and operations. Users are then prompted to initialize a bank and an associated account. Following this setup, users are presented with a menu of operations, each corresponding to a specific numerical input. By selecting the appropriate number, users can execute various actions within the application. Upon entering "0," users can exit the application.
+The application begins with an instructional guide for users, providing clear instructions on its functionalities and operations. Users are then prompted to initialize a bank and an associated account. Following this setup, users are presented with a menu of operations, each corresponding to a specific numerical input. By selecting the appropriate number, users can execute various actions within the application. Upon entering ``0`` users can exit the application. The implementation files can be found within the ``src`` directory, encapsulating the core functionalities and logic of the application.
 
 ## Instructions for Running the Application
 
